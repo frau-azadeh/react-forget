@@ -1,7 +1,7 @@
 # React Forget: Smarter Optimization for Modern React
 
 <p align="center">
-  <img src="https://github.com/frau-azadeh/react-forget/blob/main/react-forget.png" alt="React Forget" width="300"/>
+  <img src="https://github.com/frau-azadeh/react-forget/blob/main/react-forget.png" alt="React Forget" width="600"/>
 </p>
 
 This repository contains a simple example and explanation of **React Forget** — an experimental feature from the React team that enables **automatic performance optimization** using static code analysis at compile time.
